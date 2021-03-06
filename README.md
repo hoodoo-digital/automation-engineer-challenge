@@ -1,4 +1,4 @@
-# Hoodoo Digital QA Automation Challenge
+# Hoodoo Digital Automation Engineer Challenge
 Thanks for considering joining us at Hoodoo Digital! This is a challenge that will help us better understand your skills as an automation engineer.
 
 ## Instructions
